@@ -6,7 +6,6 @@ import shlex
 import traceback
 import warnings
 
-
 import collections
 from bs4 import FeatureNotFound
 from bs4.builder import (
